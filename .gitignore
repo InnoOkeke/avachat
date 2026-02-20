@@ -1,0 +1,8 @@
+node_modules
+.turbo
+dist
+.env
+.DS_Store
+coverage
+.expo
+web-build
